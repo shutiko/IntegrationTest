@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/ttt.txt
+/hs_err_pid26272.log
